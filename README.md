@@ -6,7 +6,7 @@ Raccolta dei siti web realizzati da Avatoo con Claude. Ogni sito vive nella prop
 
 | Cartella | Cliente | Stato | Progetto claude.ai |
 |---|---|---|---|
-| [`marcellini/`](marcellini/) | Studio legale Marcellini | In avvio | Marcellini - Sito Internet |
+| [`marcellini/`](marcellini/) | Studio legale Marcellini | Analisi | Marcellini - Sito Internet |
 
 ## Come funziona
 
